@@ -1,6 +1,6 @@
 # Ameridrive
 
-* [AmeriDrive Marietta](./ameridrive_marietta)
-* [AmeriDrive Pivet](./ameridrive_pivet)
-* [AmeriDrive Union City](./ameridrive_union_city)
-* [AmeriDrive Car Tour](./ameridrive_car_tour)
+* [AmeriDrive Marietta](./marietta)
+* [AmeriDrive Pivet](./pivet)
+* [AmeriDrive Union City](./unioncity)
+* [AmeriDrive Car Tour](./cartour)
